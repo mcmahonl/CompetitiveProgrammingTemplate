@@ -1,5 +1,10 @@
 # C++ Competitive Programming Template
-Competitive programming starter template for C++ programs. Includes boilerplate cheat-codes for parsing I/O, importing libraries, using automated test cases from copy&amp;paste, and Makefile
+Everything you need to solve a competitive programming problem with C++
+
+## Includes:
+ - C++ boilerplate file. this is where your code goes
+ - a makefile to quickly compile and run your code for your own testing
+ - (optional) empty text files to insert the problem's provided example case inputs and outputs for semi-automated testing
 
 ## Usage
 1. Clone this repository
