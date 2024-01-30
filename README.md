@@ -1,5 +1,5 @@
 # C++ Competitive Programming Template
-Everything you need to solve a competitive programming problem with C++
+#### Everything you need to solve a competitive programming problem with C++
 
 ## Includes:
  - C++ boilerplate file. this is where your code goes
@@ -12,14 +12,19 @@ Everything you need to solve a competitive programming problem with C++
 gh repo clone mcmahonl/CompetitiveProgrammingTemplate
 ```
 
-2. Write your code in `generic/generic.cpp`
+2. Navigate to ./generic
+```bash
+cd generic
+```
 
-3. Compile your code within `/generic`
+4. Write your code for the problem's solution in generic.cpp
+
+5. Compile your code using the provided makefile
 ```bash
 make
 ```
 
-4. Run your code within `/generic`
+4. Run your code for testing
 ```bash
 ./a
 ```
